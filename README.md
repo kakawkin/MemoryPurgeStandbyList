@@ -1,0 +1,2 @@
+# MemoryPurgeStandbyList
+Delphi clean MemoryPurgeStandbyList
